@@ -1,12 +1,91 @@
-## Hi there 👋
+# C# Learning Group
 
-<!--
+Aimed to help anyone interested and new or familiar with C# to reinforce or solidify foundational understanding.
 
-**Here are some ideas to get you started:**
+No Prerequisites are required!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Syllabus Schedule
+
+### Week 1
+
+#### Tuesday: Basic Fundamentals
+- C# Syntax
+- C# Comments
+- C# Output
+- C# User Input
+- C# Variables
+- C# Project Testing
+
+#### Wednesday: Basic Fundamentals Part II
+- C# Data Types
+- C# Type Casting
+- C# Operators
+- C# Math
+- C# Strings
+- C# Booleans
+
+#### Thursday: Reinforcement Learning Project (Individual)
+- Project I: Simple Console Calculator (addition)
+
+---
+
+### Week 2
+
+#### Tuesday: Conditionals
+- C# If...Else
+- C# Switch
+- C# While Loop
+- C# For Loop
+- C# Break/Continue
+- C# Arrays
+
+#### Wednesday: C# Methods
+- C# Methods
+- C# Method Parameters
+- C# Method Overloading
+
+#### Thursday: Reinforcement Learning Project (Individual)
+- Project II: Console Decision Story Game
+
+---
+
+### Week 3
+
+#### Tuesday: C# Classes
+- C# OOP
+- C# Classes/Objects
+- C# Class Members
+- C# Constructors
+- C# Access Modifiers
+- C# Properties
+
+#### Wednesday: C# Classes Part II
+- C# Inheritance
+- C# Polymorphism
+- C# Abstraction
+- C# Interface
+- C# Enums
+- C# Files
+- C# Exceptions
+
+#### Thursday: Reinforcement Learning Project (Groups)
+- OOP Project: Simple Calculator
+
+---
+
+### Week 4
+
+#### Tuesday: Web Application
+- Building a .NET web app
+
+#### Wednesday: Final Project
+- Choose from Tier 2 [Intermediate Project ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md) or Propose a Unique Project Idea
+
+---
+
+### Week 5
+
+#### Tuesday: Project Presentations
+
+
+
