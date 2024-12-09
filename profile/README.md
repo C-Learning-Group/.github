@@ -79,7 +79,7 @@ No Prerequisites are required!
 - Building a .NET web app
 
 #### Wednesday: Final Project
-- Choose from Tier 2 [Intermediate Project ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md) or Propose a Unique Project Idea
+- Choose from Tier 2 [Intermediate Project ideas](https://github.com/florinpop17/app-ideas/tree/master) or Propose a Unique Project Idea
 
 ---
 
